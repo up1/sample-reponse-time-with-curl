@@ -27,3 +27,5 @@ $curl -w "@curl-format.txt" -o NUL -s "https://www.google.com/"
                     ----------
          time_total:  0.222003s
 ```
+
+[Reference website](https://stackoverflow.com/questions/18215389/how-do-i-measure-request-and-response-times-at-once-using-curl)
