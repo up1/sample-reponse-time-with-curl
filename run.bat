@@ -1,0 +1,1 @@
+curl -w "@curl-format.txt" -o NUL -s "https://www.google.com/"
