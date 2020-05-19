@@ -1,6 +1,6 @@
 ## Check reponse time from target server
 
-On Linux OS
+On Linux
 ```
 $curl -w "@curl-format.txt" -o /dev/null -s "https://www.google.com/"
 
@@ -14,7 +14,7 @@ $curl -w "@curl-format.txt" -o /dev/null -s "https://www.google.com/"
          time_total:  0.222003s
 ```
 
-On Windows OS
+On Windows
 ```
 $curl -w "@curl-format.txt" -o NUL -s "https://www.google.com/"
 
