@@ -1,4 +1,4 @@
-## Check reponse time from target server
+## Check response time from target server
 
 On Linux
 ```
